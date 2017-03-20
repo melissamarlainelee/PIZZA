@@ -79,6 +79,7 @@ textarea {
 .welcome {
   background-color: #FFBD39;
   justify-content: center;
+  width: 1024px;
 }
 
 .banner {
